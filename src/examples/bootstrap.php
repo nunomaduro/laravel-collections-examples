@@ -1,6 +1,6 @@
 <?php
 
-require_once('vendor/autoload.php');
+require_once('../../vendor/autoload.php');
 
 use Illuminate\Support\Collection;
 use App\Person;

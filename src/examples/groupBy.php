@@ -2,7 +2,7 @@
 
 require_once('bootstrap.php');
 
-# Example 2: Now, I only need to group all the persons by their job
+# Task: I need to group all the persons by their job
 
 $jobsGroup = [];
 foreach ($arrayVariable as $person) {
