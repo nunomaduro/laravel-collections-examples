@@ -1,0 +1,21 @@
+{
+    "name": "nunomaduro/collections-examples-with-phpspec",
+    "description": "Collections Examples with Phpspec",
+    "type": "project",
+    "require": {
+        "illuminate/support": "dev-master",
+        "phpspec/phpspec": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Nuno Maduro",
+            "email": "enunomaduro@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
