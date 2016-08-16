@@ -10,5 +10,7 @@ foreach ($arrayVariable as $person) {
 }
 echo "\n Array variable: ". $totalMoney;
 
+// The same job, with collections:
+
 $totalMoney = $collection->sum('money');
 echo "\n Collections: ". $totalMoney;

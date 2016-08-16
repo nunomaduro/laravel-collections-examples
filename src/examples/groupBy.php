@@ -14,5 +14,7 @@ foreach ($arrayVariable as $person) {
 
 echo "\n Array variable: ". json_encode($jobsGroup);
 
+// The same job, with collections:
+
 $jobsGroup = $collection->groupBy('job');
 echo "\n Collections: ". json_encode($jobsGroup);
