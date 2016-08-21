@@ -1,6 +1,6 @@
 {
     "name": "nunomaduro/collections-examples-with-phpspec",
-    "description": "Collections Examples with Phpspec",
+    "description": "Collections examples with Phpspec",
     "type": "project",
     "require": {
         "illuminate/support": "dev-master",
