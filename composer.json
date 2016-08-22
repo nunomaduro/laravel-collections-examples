@@ -1,10 +1,9 @@
 {
-    "name": "nunomaduro/collections-examples-with-phpspec",
-    "description": "Collections examples with Phpspec",
+    "name": "nunomaduro/laravel-collections-examples",
+    "description": "Laravel collections examples",
     "type": "project",
     "require": {
-        "illuminate/support": "dev-master",
-        "phpspec/phpspec": "dev-master"
+        "illuminate/support": "dev-master"
     },
     "authors": [
         {

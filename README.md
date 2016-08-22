@@ -3,11 +3,7 @@
 1. Go the folder src/examples
 2. Inspect and execute all the examples
 
-Note: The file bootstrap.php contains the bootstrap of all examples. For example, to execute the example contains.php just put the following command: php contains.php
-
-# Todo
-
-1. Provide examples of phpspec
+Note: The file bootstrap.php contains the bootstrap of all examples. To execute the example contains.php just put the following command: php contains.php
 
 # Other sources:
 
