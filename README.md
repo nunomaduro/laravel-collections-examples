@@ -1,4 +1,4 @@
-# Collections examples with Phpspec
+# Collections examples
 
 1. Go the folder src/examples
 2. Inspect and execute all the examples
